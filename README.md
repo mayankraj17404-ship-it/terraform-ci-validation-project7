@@ -1,3 +1,5 @@
+![Terraform CI Validation](https://github.com/mayankraj17404-ship-it/terraform-ci-validation-project7/actions/workflows/terraform-ci.yml/badge.svg)
+
 # Project 7: CI Validation for Terraform
 
 ## Overview
